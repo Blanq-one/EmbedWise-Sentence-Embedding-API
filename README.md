@@ -1,8 +1,8 @@
-# Rag to Riches: Sentence Embedding API
+**EmbedWise: Sentence Embedding API**
 
 ## Overview
 
-**Rag to Riches** is a Flask-based RESTful API that leverages the `sentence-transformers` library to convert input sentences into dense vector embeddings. These embeddings capture the semantic meaning of the text, enabling applications like semantic search, clustering, and similarity analysis.
+**EmbedWise: Sentence Embedding API** is a Flask-based RESTful API that leverages the `sentence-transformers` library to convert input sentences into dense vector embeddings. These embeddings capture the semantic meaning of the text, enabling applications like semantic search, clustering, and similarity analysis.
 
 ## Core Components
 
